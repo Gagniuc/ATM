@@ -31,7 +31,7 @@ Capitolele dedicate mediului de analiză (C.4.1–C.5.4) introduc conceptele de 
 <div align="center">
 	<a href="https://github.com/Gagniuc/Antivirus-Engines">
 	  <kbd>
-	    <img src="https://github.com/Gagniuc/Academia-Tehnica-Militara/blob/main/img/ansamblu.png" alt="Curs | Securitate">
+	    <img src="https://github.com/Gagniuc/Academia-Tehnica-Militara/blob/main/img/echilibru.png" alt="Curs | Securitate">
 	  </kbd>
 	</a>
 </div>
