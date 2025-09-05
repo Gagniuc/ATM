@@ -5,7 +5,7 @@ Aceste prezentări constituie un curs complex de securitate cibernetică și ing
 Capitolele dedicate mediului de analiză (C.4.1–C.5.4) introduc conceptele de detonare controlată, instrumente de inginerie inversă, automatizarea mașinilor virtuale și lucrul cu mostre malware, inclusiv protocoalele de manipulare. Urmează un set de prezentări orientate pe analiza executabilelor (C.6.1–C.6.6), cu accent pe formatele de fișiere, detectarea bazată pe semnături, diferențele dintre executabile compilate și interpretate, tehnici de ofuscare, identificarea punctului de intrare și arhitectura CPU. În continuare, seria de prezentări dedicate dezasamblării și patchingului (C.7.1–C.7.8) explică procesul de compilare, optimizările compilatorului, encodarea, modificarea executabilelor prin instrucțiuni precum NOP sau JMP, detectarea funcțiilor de criptare și utilizarea IDA pentru analiza codului malware.
 
 <div align="center">
-	<a href="">
+	<a href="https://github.com/Gagniuc/Antivirus-Engines">
 	  <kbd>
 	    <img src="https://github.com/Gagniuc/Academia-Tehnica-Militara/blob/main/img/ansamblu.png" alt="Curs | Securitate">
 	  </kbd>
@@ -29,7 +29,7 @@ Partea introductivă surprinde istoria și evoluția mașinilor artificiale de u
 Capitolele dedicate malware-ului descriu motivațiile din spatele proiectării, clasificările și tipologiile întâlnite (troieni, viermi, viruși), precum și metodele de infectare, de la backdoor și dropper până la mecanisme avansate de polimorfism, metamorfism și ofuscări. Se discută, de asemenea, criptografia și persistența ca elemente esențiale în arsenalul atacatorilor. Mediul de analiză și ingineria inversă sunt introduse prin prezentări despre detonare, instrumente specializate, automatizarea mașinilor virtuale și manipularea mostrelor malware.
 
 <div align="center">
-	<a href="">
+	<a href="https://github.com/Gagniuc/Antivirus-Engines">
 	  <kbd>
 	    <img src="https://github.com/Gagniuc/ATM/blob/main/img/abstract.png" alt="ATM | MTA">
 	  </kbd>
@@ -46,7 +46,7 @@ Astfel, aceste materiale formează un curs complet și interdisciplinar, care î
 
 
 <div align="center">
-	<a href="">
+	<a href="https://github.com/Gagniuc/Antivirus-Engines">
 	  <kbd>
 	    <img src="https://github.com/Gagniuc/ATM/blob/main/img/atm.png" alt="Curs | Securitate">
 	  </kbd>
