@@ -20,9 +20,7 @@ Ulterior, accentul cade pe modificarea executabilelor prin inserție de cod maș
 
 Cursul se încheie cu o privire asupra strategiilor de infecție, de la phishing și droppere până la exploiturile complexe, precum și asupra metodelor de persistență și anihilare a soluțiilor antimalware. Ultimele prezentări oferă o sinteză asupra metodelor de detecție: analiza salturilor în cod, utilizarea semnăturilor, arhitectura motoarelor antivirus și algoritmii fundamentali care susțin securitatea cibernetică modernă.
 
-Astfel, aceste materiale formează un curs complet și interdisciplinar, care îmbină informatica teoretică, principiile criptografiei, ingineria inversă și practica securității informatice. Ele oferă nu doar o imagine istorică și conceptuală asupra fenomenului malware, ci și un ghid practic pentru înțelegerea mecanismelor de atac și apărare, constituind o resursă esențială pentru orice specialist sau student interesat de domeniul securității cibernetice.
-
-***
+Prin urmare, aceste materiale formează un curs complet și interdisciplinar, care îmbină informatica teoretică, principiile criptografiei, ingineria inversă și practica securității informatice. Ele oferă nu doar o imagine istorică și conceptuală asupra fenomenului malware, ci și un ghid practic pentru înțelegerea mecanismelor de atac și apărare, constituind o resursă esențială pentru orice specialist sau student interesat de domeniul securității cibernetice.
 
 # Detalii
 
@@ -40,9 +38,7 @@ Capitolele dedicate mediului de analiză (C.4.1–C.5.4) introduc conceptele de 
 
 Partea practică se aprofundează prin capitolele C.8 și 9, unde sunt descrise tehnici de inserție de cod mașină, modificări de entry point, manipularea stringurilor și a adreselor, dar și metode de dezasamblare, patching și schimbarea mediului de execuție. Următoarele secțiuni (10.1–10.8) tratează optimizările în x32dbg/x64dbg, gestionarea memoriei HEAP și STACK, interceptarea și criptarea datelor în RAM, identificarea parolelor și a centrelor de comandă și control, precum și tehnici de criptare a instrucțiunilor în secțiunea .text. Analiza comportamentală (C.11.1–C.11.4) prezintă filtrarea evenimentelor de sistem, inspecția prin detonare controlată, captarea evenimentelor efemere și utilizarea honeypot-urilor pentru studierea virușilor.
 
-Capitolul dedicat strategiilor de infecție (C.12.1–C.12.4) explorează phishing-ul, dropperele, injecția de cod mașină și exploiturile. Persistența malware-ului și tehnicile de evitare a detecției sunt explicate în C.13, unde apar subiecte precum anihilarea programelor antimalware, DLL hijacking și metode avansate de menținere a controlului asupra sistemului compromis. În final, prezentările despre metodele de detecție (C.14.1–C.14.4) abordează tipurile de salturi și implicațiile lor pentru detectarea malware-ului, semnăturile utilizate de soluțiile antivirus, mecanismele motoarelor antivirus și algoritmii folosiți în securitatea cibernetică modernă.
-
-Astfel, întregul set de prezentări construiește o imagine unitară și completă asupra malware-ului, de la origini și clasificări, la metode de analiză, detecție și contracarare, îmbinând teoria informației, principiile criptografiei și tehnicile de inginerie inversă cu practica exploatării și apărării în domeniul securității cibernetice.
+Capitolul dedicat strategiilor de infecție (C.12.1–C.12.4) explorează phishing-ul, dropperele, injecția de cod mașină și exploiturile. Persistența malware-ului și tehnicile de evitare a detecției sunt explicate în C.13, unde apar subiecte precum anihilarea programelor antimalware, DLL hijacking și metode avansate de menținere a controlului asupra sistemului compromis. În final, prezentările despre metodele de detecție (C.14.1–C.14.4) abordează tipurile de salturi și implicațiile lor pentru detectarea malware-ului, semnăturile utilizate de soluțiile antivirus, mecanismele motoarelor antivirus și algoritmii folosiți în securitatea cibernetică modernă. Setul de prezentări construiește o imagine unitară și completă asupra malware-ului, de la origini și clasificări, la metode de analiză, detecție și contracarare, îmbinând teoria informației, principiile criptografiei și tehnicile de inginerie inversă cu practica exploatării și apărării în domeniul securității cibernetice.
 
 <div align="center">
 	<a href="https://github.com/Gagniuc/Antivirus-Engines">
